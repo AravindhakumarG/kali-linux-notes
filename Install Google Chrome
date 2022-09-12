@@ -1,0 +1,13 @@
+<h2> Install Google Chrome on Kali Linux <h2/>
+<h3> Open terminal </h3>
+<p> Do step by step <br>
+<br>
+Step-1: Login on Kali Linux as a root user
+<br>
+Step-2: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+<br>
+Step-3: apt-get install gdebi
+<br>
+Step-4: gdebi google-chrome-stable_current_amd64.deb
+<br></p>
+Now check the apps section , Google chrome sofware installed.
